@@ -22,7 +22,7 @@
         "dV": "Adlai",
         "fT": "Gordon",
         "JJ": "https://lh4.googleusercontent.com/-B33XrvrlcGo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclL0qhLTA4Uuj7VRtPv7upZ_MOpLA/s96-c/photo.jpg",
-        "Wt": "adlai@hypertattoo.com"
+        "Wt": "example@email.com"
     },
     "googleId": "116682484049447260857",
     "tokenObj": {
@@ -46,7 +46,7 @@
     "profileObj": {
         "googleId": "116682484049447260857",
         "imageUrl": "https://lh4.googleusercontent.com/-B33XrvrlcGo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclL0qhLTA4Uuj7VRtPv7upZ_MOpLA/s96-c/photo.jpg",
-        "email": "adlai@hypertattoo.com",
+        "email": "example@email.com",
         "name": "Adlai Gordon",
         "givenName": "Adlai",
         "familyName": "Gordon"
