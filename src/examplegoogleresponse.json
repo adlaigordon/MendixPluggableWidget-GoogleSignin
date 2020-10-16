@@ -1,0 +1,54 @@
+{
+    "Ca": "116682484049447260857",
+    "wc": {
+        "token_type": "Bearer",
+        "access_token": "ya29.a0AfH6SMAAQYt3anXYeeCwOzHFa1ZjigNSXK3Uu9pK2aEwxB09J901yL67SXF3zq9UTjfBWJTHYrK40UL5JqIxG-RnbIFmIaup6eBkSUhWzZNuqLY5h9fa441O59QdjfY6iCPFY3DfJF0QSGpKYqVHTkpMv32cuee1tCgPAg",
+        "scope": "email profile https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/userinfo.profile openid",
+        "login_hint": "AJDLj6JUa8yxXrhHdWRHIV0S13cAEX-wcWn5ZgW32dQCHYMN-QcgzSmtG6cQO_RtCzVGZPjBWIHJTPNIw3eqTmBCYY4PeXCOUA",
+        "expires_in": 3599,
+        "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjdkYTc4NjNlODYzN2Q2NjliYzJhMTI2MjJjZWRlMmE4ODEzZDExYjEiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNDk1MzcxMjMyODU2LTAxZ3N1cXVhMnNrb2c1a2wxYzdscm40aWRzMWt2ZnMzLmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNDk1MzcxMjMyODU2LTAxZ3N1cXVhMnNrb2c1a2wxYzdscm40aWRzMWt2ZnMzLmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTE2NjgyNDg0MDQ5NDQ3MjYwODU3IiwiaGQiOiJoeXBlcnRhdHRvby5jb20iLCJlbWFpbCI6ImFkbGFpQGh5cGVydGF0dG9vLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiMUVobDkybWo0OTBCanB4M2k5c21mQSIsIm5hbWUiOiJBZGxhaSBHb3Jkb24iLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDQuZ29vZ2xldXNlcmNvbnRlbnQuY29tLy1CMzNYcnZybGNHby9BQUFBQUFBQUFBSS9BQUFBQUFBQUFBQS9BTVp1dWNsTDBxaExUQTRVdWo3VlJ0UHY3dXBaX01PcExBL3M5Ni1jL3Bob3RvLmpwZyIsImdpdmVuX25hbWUiOiJBZGxhaSIsImZhbWlseV9uYW1lIjoiR29yZG9uIiwibG9jYWxlIjoiZW4iLCJpYXQiOjE2MDI1NDkzMDAsImV4cCI6MTYwMjU1MjkwMCwianRpIjoiYWQwM2JmMzE2MGNiOTE1ZmRiYTg1ZTkyMTFkNTNjMjQwNzU0Njk0YSJ9.aD7ESoErc5pV8WgRW4EisjSv2AQ8LrapeBq1Qmr0ISSImD0krJ_FsBwfpnNOcxegD-RTCSQnRN8FNIMNdPMNcI8yrhJtREW38X7ArdShsN91DRqC7YLFQ-l9sOE-fyvZMZekBXScaS2vZckZz0A6KiN8zbXmzcTNJgUsk2h3oz8Pm46i20-2rS2P60NUi_DbOmjMrjPqkU9TW1X7wIxfg1CbTRZSe8beMLYegtGGh0lrXNSDBXHmSOPGDkJx2XjglEAiDzqgrwB_GjM9Zws4rder8Wj_UMvxBgZdVBpEfsbg91C4i9yqJsP8ST18vl6D6t3dssluUEknPHRUYdgTog",
+        "session_state": {
+            "extraQueryParams": {
+                "authuser": "0"
+            }
+        },
+        "first_issued_at": 1602549300454,
+        "expires_at": 1602552899454,
+        "idpId": "google"
+    },
+    "nt": {
+        "yT": "116682484049447260857",
+        "Ad": "Adlai Gordon",
+        "dV": "Adlai",
+        "fT": "Gordon",
+        "JJ": "https://lh4.googleusercontent.com/-B33XrvrlcGo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclL0qhLTA4Uuj7VRtPv7upZ_MOpLA/s96-c/photo.jpg",
+        "Wt": "adlai@hypertattoo.com"
+    },
+    "googleId": "116682484049447260857",
+    "tokenObj": {
+        "token_type": "Bearer",
+        "access_token": "ya29.a0AfH6SMAAQYt3anXYeeCwOzHFa1ZjigNSXK3Uu9pK2aEwxB09J901yL67SXF3zq9UTjfBWJTHYrK40UL5JqIxG-RnbIFmIaup6eBkSUhWzZNuqLY5h9fa441O59QdjfY6iCPFY3DfJF0QSGpKYqVHTkpMv32cuee1tCgPAg",
+        "scope": "email profile https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/userinfo.profile openid",
+        "login_hint": "AJDLj6JUa8yxXrhHdWRHIV0S13cAEX-wcWn5ZgW32dQCHYMN-QcgzSmtG6cQO_RtCzVGZPjBWIHJTPNIw3eqTmBCYY4PeXCOUA",
+        "expires_in": 3599,
+        "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjdkYTc4NjNlODYzN2Q2NjliYzJhMTI2MjJjZWRlMmE4ODEzZDExYjEiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNDk1MzcxMjMyODU2LTAxZ3N1cXVhMnNrb2c1a2wxYzdscm40aWRzMWt2ZnMzLmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNDk1MzcxMjMyODU2LTAxZ3N1cXVhMnNrb2c1a2wxYzdscm40aWRzMWt2ZnMzLmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTE2NjgyNDg0MDQ5NDQ3MjYwODU3IiwiaGQiOiJoeXBlcnRhdHRvby5jb20iLCJlbWFpbCI6ImFkbGFpQGh5cGVydGF0dG9vLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiMUVobDkybWo0OTBCanB4M2k5c21mQSIsIm5hbWUiOiJBZGxhaSBHb3Jkb24iLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDQuZ29vZ2xldXNlcmNvbnRlbnQuY29tLy1CMzNYcnZybGNHby9BQUFBQUFBQUFBSS9BQUFBQUFBQUFBQS9BTVp1dWNsTDBxaExUQTRVdWo3VlJ0UHY3dXBaX01PcExBL3M5Ni1jL3Bob3RvLmpwZyIsImdpdmVuX25hbWUiOiJBZGxhaSIsImZhbWlseV9uYW1lIjoiR29yZG9uIiwibG9jYWxlIjoiZW4iLCJpYXQiOjE2MDI1NDkzMDAsImV4cCI6MTYwMjU1MjkwMCwianRpIjoiYWQwM2JmMzE2MGNiOTE1ZmRiYTg1ZTkyMTFkNTNjMjQwNzU0Njk0YSJ9.aD7ESoErc5pV8WgRW4EisjSv2AQ8LrapeBq1Qmr0ISSImD0krJ_FsBwfpnNOcxegD-RTCSQnRN8FNIMNdPMNcI8yrhJtREW38X7ArdShsN91DRqC7YLFQ-l9sOE-fyvZMZekBXScaS2vZckZz0A6KiN8zbXmzcTNJgUsk2h3oz8Pm46i20-2rS2P60NUi_DbOmjMrjPqkU9TW1X7wIxfg1CbTRZSe8beMLYegtGGh0lrXNSDBXHmSOPGDkJx2XjglEAiDzqgrwB_GjM9Zws4rder8Wj_UMvxBgZdVBpEfsbg91C4i9yqJsP8ST18vl6D6t3dssluUEknPHRUYdgTog",
+        "session_state": {
+            "extraQueryParams": {
+                "authuser": "0"
+            }
+        },
+        "first_issued_at": 1602549300454,
+        "expires_at": 1602552899454,
+        "idpId": "google"
+    },
+    "tokenId": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjdkYTc4NjNlODYzN2Q2NjliYzJhMTI2MjJjZWRlMmE4ODEzZDExYjEiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNDk1MzcxMjMyODU2LTAxZ3N1cXVhMnNrb2c1a2wxYzdscm40aWRzMWt2ZnMzLmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNDk1MzcxMjMyODU2LTAxZ3N1cXVhMnNrb2c1a2wxYzdscm40aWRzMWt2ZnMzLmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTE2NjgyNDg0MDQ5NDQ3MjYwODU3IiwiaGQiOiJoeXBlcnRhdHRvby5jb20iLCJlbWFpbCI6ImFkbGFpQGh5cGVydGF0dG9vLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiMUVobDkybWo0OTBCanB4M2k5c21mQSIsIm5hbWUiOiJBZGxhaSBHb3Jkb24iLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDQuZ29vZ2xldXNlcmNvbnRlbnQuY29tLy1CMzNYcnZybGNHby9BQUFBQUFBQUFBSS9BQUFBQUFBQUFBQS9BTVp1dWNsTDBxaExUQTRVdWo3VlJ0UHY3dXBaX01PcExBL3M5Ni1jL3Bob3RvLmpwZyIsImdpdmVuX25hbWUiOiJBZGxhaSIsImZhbWlseV9uYW1lIjoiR29yZG9uIiwibG9jYWxlIjoiZW4iLCJpYXQiOjE2MDI1NDkzMDAsImV4cCI6MTYwMjU1MjkwMCwianRpIjoiYWQwM2JmMzE2MGNiOTE1ZmRiYTg1ZTkyMTFkNTNjMjQwNzU0Njk0YSJ9.aD7ESoErc5pV8WgRW4EisjSv2AQ8LrapeBq1Qmr0ISSImD0krJ_FsBwfpnNOcxegD-RTCSQnRN8FNIMNdPMNcI8yrhJtREW38X7ArdShsN91DRqC7YLFQ-l9sOE-fyvZMZekBXScaS2vZckZz0A6KiN8zbXmzcTNJgUsk2h3oz8Pm46i20-2rS2P60NUi_DbOmjMrjPqkU9TW1X7wIxfg1CbTRZSe8beMLYegtGGh0lrXNSDBXHmSOPGDkJx2XjglEAiDzqgrwB_GjM9Zws4rder8Wj_UMvxBgZdVBpEfsbg91C4i9yqJsP8ST18vl6D6t3dssluUEknPHRUYdgTog",
+    "accessToken": "ya29.a0AfH6SMAAQYt3anXYeeCwOzHFa1ZjigNSXK3Uu9pK2aEwxB09J901yL67SXF3zq9UTjfBWJTHYrK40UL5JqIxG-RnbIFmIaup6eBkSUhWzZNuqLY5h9fa441O59QdjfY6iCPFY3DfJF0QSGpKYqVHTkpMv32cuee1tCgPAg",
+    "profileObj": {
+        "googleId": "116682484049447260857",
+        "imageUrl": "https://lh4.googleusercontent.com/-B33XrvrlcGo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclL0qhLTA4Uuj7VRtPv7upZ_MOpLA/s96-c/photo.jpg",
+        "email": "adlai@hypertattoo.com",
+        "name": "Adlai Gordon",
+        "givenName": "Adlai",
+        "familyName": "Gordon"
+    }
+}
